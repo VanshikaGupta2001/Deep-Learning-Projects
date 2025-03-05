@@ -40,6 +40,15 @@ This repository contains a collection of deep learning projects that demonstrate
 ### 7. **Wide & Deep and Deep & Cross Models**
    - Implementation of advanced architectures like Wide & Deep and Deep & Cross models for recommendation systems.
    - **Key Concepts**: Feature engineering, hybrid models, and recommendation systems.
+   - 
+### 8. **Fine-Tune Models on Text and Summary Dataset**
+   - Fine-tuning pre-trained models (e.g., BERT, GPT) on a text and summary dataset for tasks like text summarization or classification.
+   - **Key Concepts**: Transfer learning, transformer architectures, and NLP fine-tuning.
+
+### 9. **CNN for Arrhythmia Categorization**
+   - A convolutional neural network (CNN) model to categorize arrhythmia types from ECG signals.
+   - **Key Concepts**: Signal processing, multi-class classification, and medical data analysis.
+
 
 ---
 
